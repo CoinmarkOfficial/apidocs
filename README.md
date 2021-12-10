@@ -468,9 +468,7 @@ tick       | object    | Order Book
 
 ### URL Access URL
 
-#### [wss://ws.coinmark.me/kline-api/ws]((https://www.coinmark.me)) [Recommend]
-
-#### [wss://ws.COINMARKcoin.pro/kline-api/ws](https://www.coinmark.me)
+#### [wss://ws.coinmark.me/kline-api/ws]((https://www.coinmark.me))
 
 ### Connection Request
 
@@ -646,4 +644,4 @@ tick       | object    | Order Book
 }
 ```
 
-[^_^]: aadf4
+
